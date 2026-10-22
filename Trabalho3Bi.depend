@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1792708587 source:c:\users\andre\estruturadados\trabalho3bi\main.c
+	"arvore_binaria.h"
+	"vetor_desordenado.h"
+	"arvore_AVL.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1792707831 source:c:\users\andre\estruturadados\trabalho3bi\arvore_binaria.c
+	"arvore_binaria.h"
+
+1792707831 c:\users\andre\estruturadados\trabalho3bi\arvore_binaria.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1792537728 c:\users\andre\estruturadados\trabalho3bi\vetor_desordenado.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1792706910 source:c:\users\andre\estruturadados\trabalho3bi\vetor_desordenado.c
+	"vetor_desordenado.h"
+
+1792706807 source:c:\users\andre\estruturadados\trabalho3bi\arvore_avl.c
+	"arvore_AVL.h"
+
+1792700664 c:\users\andre\estruturadados\trabalho3bi\arvore_avl.h
+	"arvore_binaria.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
